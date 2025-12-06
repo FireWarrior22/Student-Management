@@ -1,9 +1,7 @@
 package com.spring.practice.Student.Management.Model;
-
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
-import org.springframework.stereotype.Component;
 
 public class Student {
 
